@@ -14,3 +14,5 @@ Acesse o [site](https://dartpad.dev/570e36230409ced3ef5631360d5f525a).
 Acesse o [site](https://dartpad.dev/9ecc19b5865116bb3834272f02b917c5).
 
 ## [Cronômetro](https://github.com/fernandalopesbarbalho/mobile-ifsp-semestre5/tree/main/cronometro) - 20/04/2025
+
+## [Filmes](https://github.com/fernandalopesbarbalho/mobile-ifsp-semestre5/tree/main/filmes) - 04/05/2025
