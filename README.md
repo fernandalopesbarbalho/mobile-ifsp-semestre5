@@ -1,5 +1,7 @@
 # Desenvolvimento Mobile
-Códigos produzidos referentes à disciplina de Desenvolvimento para Dispositivos Móveis.
+Códigos produzidos durante o quinto semestre de Análise e Desenvolvimento de Sistemas (IFSP), referentes à disciplina de Desenvolvimento para Dispositivos Móveis.
+
+Nota final: 10.
 
 ## [Widgets](https://github.com/fernandalopesbarbalho/mobile-ifsp-semestre5/blob/main/widgets.dart) - 19/03/2025
 Acesse o [site](https://dartpad.dev/36947b1fdec5fa9e5c66f9a373578346).
